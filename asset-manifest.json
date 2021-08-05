@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pumpkinSpice/static/css/main.a4ca67b3.chunk.css",
-    "main.js": "/pumpkinSpice/static/js/main.c3f8aeea.chunk.js",
-    "main.js.map": "/pumpkinSpice/static/js/main.c3f8aeea.chunk.js.map",
+    "main.js": "/pumpkinSpice/static/js/main.7666602f.chunk.js",
+    "main.js.map": "/pumpkinSpice/static/js/main.7666602f.chunk.js.map",
     "runtime-main.js": "/pumpkinSpice/static/js/runtime-main.77d2c4aa.js",
     "runtime-main.js.map": "/pumpkinSpice/static/js/runtime-main.77d2c4aa.js.map",
     "static/js/2.b047a01a.chunk.js": "/pumpkinSpice/static/js/2.b047a01a.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.77d2c4aa.js",
     "static/js/2.b047a01a.chunk.js",
     "static/css/main.a4ca67b3.chunk.css",
-    "static/js/main.c3f8aeea.chunk.js"
+    "static/js/main.7666602f.chunk.js"
   ]
 }
