@@ -1,0 +1,4 @@
+cinnamon stick = #9c4722
+saffron chive = #F4C430
+sunlight =  #fdfbd3
+orange peel = #ff9f00

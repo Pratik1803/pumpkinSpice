@@ -1,0 +1,66 @@
+#popups{
+    height: 100vh;
+    margin: 20px 0;
+}
+#posters{
+    width: 94vw;
+    height: 90vh;
+    margin: 5vh 3vw;
+    background: linear-gradient(107.47deg, #FDFDB3 0%, #F4C430 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box-1{
+    display: flex;
+    height: 90vh;
+    width: 90vw;
+    justify-content: space-around;
+    align-items: center;
+}
+#box-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#box-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#vertical{
+    width: 36vw;
+    height: 85vh;
+    object-fit: fill;
+    object-position: center;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.2);
+}
+#horizontal{
+    width: 50vw;
+    height: 40vh;
+    object-fit: fill;
+    object-position: center;
+    margin: 2vh 0;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.2);
+}
+#headphones{
+    width: 24vw;
+    height: 40vh;
+    object-fit: fill;
+    object-position: center;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.2);
+}
+#stationary{
+    width: 24vw;
+    height: 40vh;
+    object-fit: fill;
+    object-position: center;
+    margin: 2vh 0vw;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.2);
+}
+img{
+    transition: 0.3s ease-in-out;
+}
+img:hover{
+    transform: scale(1.02);
+}
