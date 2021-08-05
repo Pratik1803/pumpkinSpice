@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4ca67b3.chunk.css",
+    "main.js": "/static/js/main.c3f8aeea.chunk.js",
+    "main.js.map": "/static/js/main.c3f8aeea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.748e1050.js",
+    "runtime-main.js.map": "/static/js/runtime-main.748e1050.js.map",
+    "static/js/2.c0c7d867.chunk.js": "/static/js/2.c0c7d867.chunk.js",
+    "static/js/2.c0c7d867.chunk.js.map": "/static/js/2.c0c7d867.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a4ca67b3.chunk.css.map": "/static/css/main.a4ca67b3.chunk.css.map",
+    "static/js/2.c0c7d867.chunk.js.LICENSE.txt": "/static/js/2.c0c7d867.chunk.js.LICENSE.txt",
+    "static/media/headphones.577cd246.png": "/static/media/headphones.577cd246.png",
+    "static/media/popUp-vertcal.ba390acd.png": "/static/media/popUp-vertcal.ba390acd.png",
+    "static/media/propUp-horizontal.430104a5.png": "/static/media/propUp-horizontal.430104a5.png",
+    "static/media/stationary.b96f98df.png": "/static/media/stationary.b96f98df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.748e1050.js",
+    "static/js/2.c0c7d867.chunk.js",
+    "static/css/main.a4ca67b3.chunk.css",
+    "static/js/main.c3f8aeea.chunk.js"
+  ]
+}
